@@ -4,7 +4,7 @@ colorID: 0
 position: 524,111
 ---
 <<if visited("Sally") is false>>
-    Player: Hey, Sally. #line:794945
+    Player: Hey, <color="red">Sally</color>. #line:794945
     Sally: Oh! Hi. #line:2dc39b
     Sally: You snuck up on me. #line:34de2f
     Sally: Don't do that. #line:dcc2bc
